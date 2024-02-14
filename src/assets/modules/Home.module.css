@@ -1,0 +1,22 @@
+.home{
+    background-color: pink;
+}
+
+.header {
+    font-family: cursive;
+    font-size: 50px;
+}
+
+.button {
+    all:unset;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+
+    margin: 20px;
+    padding: 5px 20px;
+    border: solid 2px red;
+    border-radius: 10px;
+
+    background-color: red;
+}
